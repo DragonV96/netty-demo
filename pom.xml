@@ -33,6 +33,20 @@
       <version>4.1.43.Final</version>
     </dependency>
 
+<!--    &lt;!&ndash; lombok插件 &ndash;&gt;-->
+<!--    <dependency>-->
+<!--      <groupId>org.projectlombok</groupId>-->
+<!--      <artifactId>lombok</artifactId>-->
+<!--      <version>1.18.8</version>-->
+<!--      <scope>provided</scope>-->
+<!--    </dependency>-->
+
+<!--    &lt;!&ndash; log插件 &ndash;&gt;-->
+<!--    <dependency>-->
+<!--      <groupId>org.slf4j</groupId>-->
+<!--      <artifactId>slf4j-api</artifactId>-->
+<!--      <version>1.7.25</version>-->
+<!--    </dependency>-->
   </dependencies>
 
   <build>
